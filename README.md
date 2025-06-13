@@ -6,7 +6,7 @@ API RESTful desenvolvida em ASP.NET Core para gerenciamento de produtos de Pet S
 
 ## 📂 Repositório Oficial
 
-🔗 GitHub: [https://github.com/ValerioJunior-Garro/API.git](https://github.com/ValerioJunior-Garro/API.git)
+🔗 GitHub: [https://github.com/ValerioJunior-Garro/API.git](https://github.com/lauragoncalves07/API-Petshop)
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -39,7 +39,7 @@ API RESTful desenvolvida em ASP.NET Core para gerenciamento de produtos de Pet S
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/ValerioJunior-Garro/API.git
+   git clone https://github.com/lauragoncalves07/API-Petshop
    cd API
    (Importante!) Baixe a pasta node_modules no OneDrive:
    ---
