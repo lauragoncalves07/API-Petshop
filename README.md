@@ -1,6 +1,6 @@
-# 🏗️ API - Materiais de Construção
+ # Projeto API- Pet Shop
 
-API RESTful desenvolvida em ASP.NET Core para gerenciar materiais de construção. Permite cadastrar, listar, atualizar e remover materiais — **sem necessidade de banco de dados**. Os dados são armazenados temporariamente em memória.
+API RESTful desenvolvida em ASP.NET Core para gerenciamento de produtos de Pet Shop. Permite listar itens relacionados a animais de estimação — sem a utilização de banco de dados. Os dados são armazenados temporariamente em memória durante a execução da aplicação.
 
 ---
 
