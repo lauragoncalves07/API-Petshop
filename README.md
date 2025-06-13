@@ -8,7 +8,6 @@ API RESTful desenvolvida em ASP.NET Core para gerenciamento de produtos de Pet S
 
 🔗 GitHub: [https://github.com/ValerioJunior-Garro/API.git](https://github.com/ValerioJunior-Garro/API.git)
 
----
 
 ## 🚀 Tecnologias Utilizadas
 
